@@ -1,1 +1,1 @@
-[Here is HW0](file:///C:/Users/lenovo/Documents/GitHub/fall20-yaseminyumak/hw0.html)
+[Here is HW0](Documents/GitHub/fall20-yaseminyumak/hw0.html)

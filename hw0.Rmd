@@ -1,0 +1,28 @@
+---
+title: "Interesting R Examples"
+author: "Yasemin Yumak - IE582 - Fall 2020"
+---
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+1. [Uber Pickups in New York City](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city)
+
+  This directory contains data on over 4.5 million Uber pickups in New York City from April to September 2014, and 14.3 million more Uber pickups from January to June 2015. 
+  
+2. [How Much Did It Rain? II](https://www.kaggle.com/c/how-much-did-it-rain-ii/overview)
+
+  How Much Did It Rain? II is focused on solving the core rain measurement prediction problem. The training data consists of NEXRAD and MADIS data collected on 20 days between Apr and Aug 2014 over midwestern corn-growing states.The test data consists of data from the same radars and gauges over the remaining days in that month.
+
+3. [What's Cooking?](https://www.kaggle.com/c/whats-cooking)
+  
+  This data sets can be used to predict the category of a dish's cuisine given a list of its ingredients. It may be an interesting and helpful example for beginners. 
+  
+4. [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+  
+  It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.The datasets contains transactions made by credit cards in September 2013 by european cardholders.
+
+5. [World University Rankings](https://www.kaggle.com/mylesoneill/world-university-rankings)
+
+  Ranking universities is a difficult, political, and controversial practice. There are hundreds of different national and international university ranking systems, many of which disagree with each other. This dataset contains three global university rankings from very different places.

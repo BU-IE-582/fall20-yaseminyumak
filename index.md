@@ -1,1 +1,1 @@
-[hw0](https://bu-ie-582.github.io/fall20-yaseminyumak/hw0)
+[hw0](https://github.com/BU-IE-582/fall20-yaseminyumak/hw0.html)

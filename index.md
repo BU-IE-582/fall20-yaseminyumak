@@ -14,4 +14,4 @@
 
 [Here](IE582_HW4.html) is HW4.
 
-[Codes](IE582_HW4.R) for HW4 is also here.
+[Codes](IE582_HW4.r) for HW4 is also here.

@@ -11,3 +11,7 @@
 [Here](IE582_HW3.html) is HW3.
 
 [Codes](IE582_HW3.ipynb) for HW3 is also here.
+
+[Here](IE582_HW4.html) is HW4.
+
+[Codes](IE582_HW4.R) for HW4 is also here.
